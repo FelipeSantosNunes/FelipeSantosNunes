@@ -1,4 +1,4 @@
-<h2 align="left">olá 👋! Meu nome é Felipe Santos Nunes e eu sou um desenvolvedor de Front-End.</h2>
+<h2 align="left">Olá 👋! Meu nome é Felipe Santos Nunes e eu sou um desenvolvedor de Front-End.</h2>
 
 ###
 
